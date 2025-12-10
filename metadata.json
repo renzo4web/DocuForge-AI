@@ -1,0 +1,5 @@
+{
+  "name": "DocuForge AI",
+  "description": "Transform any document, image, or text into structured JSON data using Gemini 3 Pro. Define your schema and extract exactly what you need.",
+  "requestFramePermissions": []
+}
